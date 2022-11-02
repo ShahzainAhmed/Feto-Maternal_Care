@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29422790356",
+    "project_id": "dr-app-55806",
+    "storage_bucket": "dr-app-55806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29422790356:android:61c10b1d6e811c897fbd41",
+        "android_client_info": {
+          "package_name": "com.example.murtaza_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29422790356-5ms8frpm8vuuvh0hheo06b3udgahklte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIhzgPsSgHkMTgpVEOS9XogMif63gRQxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29422790356-5ms8frpm8vuuvh0hheo06b3udgahklte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
