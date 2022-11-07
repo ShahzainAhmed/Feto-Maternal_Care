@@ -5,4 +5,6 @@
 
 ## Working Demo of the Application:
 
-https://user-images.githubusercontent.com/59369881/199464068-cf6f9b3c-de15-49fe-a94a-1387df95abbb.mp4
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/59369881/199464068-cf6f9b3c-de15-49fe-a94a-1387df95abbb.mp4" width=400/>
+<div/>
